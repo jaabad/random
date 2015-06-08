@@ -1,0 +1,1 @@
+La aplicacion random.js debera ser ejecuta en una consola de node o en alguna de las siguientes web: http://www.tutorialspoint.com/nodejs_terminal_online.php o  http://www.node-console.com/script/code 
